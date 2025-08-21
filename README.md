@@ -1,4 +1,4 @@
-# Hi, I'm [Archee] 👋
+# Hi, I'm Archee 👋
 I'm a BCA student and technology enthusiast. I love exploring web development, programming, and emerging tech trends.
 
 ## 🔧 Skills
